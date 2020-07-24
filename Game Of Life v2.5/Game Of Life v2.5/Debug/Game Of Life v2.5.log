@@ -1,0 +1,12 @@
+﻿  Source.cpp
+D:\C++\Game Of Life v2.5\Game Of Life v2.5\Source.cpp(448,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\Game Of Life v2.5\Game Of Life v2.5\Source.cpp(494,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\Game Of Life v2.5\Game Of Life v2.5\Source.cpp(806,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\Game Of Life v2.5\Game Of Life v2.5\Source.cpp(1248,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\Game Of Life v2.5\Game Of Life v2.5\Source.cpp(1467,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\Game Of Life v2.5\Game Of Life v2.5\Source.cpp(1548,21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\Game Of Life v2.5\Game Of Life v2.5\Source.cpp(1908,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\Game Of Life v2.5\Game Of Life v2.5\Source.cpp(1962,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\Game Of Life v2.5\Game Of Life v2.5\Source.cpp(1995,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\Game Of Life v2.5\Game Of Life v2.5\Source.cpp(291): warning C4715: 'colorset': not all control paths return a value
+  Game Of Life v2.5.vcxproj -> D:\C++\Game Of Life v2.5\Debug\Game Of Life v2.5.exe
